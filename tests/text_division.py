@@ -5,7 +5,7 @@ import pytest
 from ejercicios.operaciones import division
 
 
-class DivisionTetsClass:
+class TetsClass:
 
  
     def test_division(self):

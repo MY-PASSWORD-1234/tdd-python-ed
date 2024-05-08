@@ -5,7 +5,7 @@ import pytest
 from ejercicios.operaciones import multiplicacion
 
 
-class MultiTetsClass:
+class TetsClass:
 
  
     def test_multi(self):

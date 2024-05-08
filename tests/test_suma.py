@@ -5,7 +5,7 @@ import pytest
 from ejercicios.operaciones import suma
 
 
-class SumaTetsClass:
+class TetsClass:
 
  
     def test_suma(self):
