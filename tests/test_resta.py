@@ -5,7 +5,7 @@ import pytest
 from ejercicios.operaciones import resta
 
 
-class TetsClass:
+class TestClass:
 
  
     def test_resta(self):

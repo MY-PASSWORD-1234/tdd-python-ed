@@ -5,8 +5,7 @@ import pytest
 from ejercicios.operaciones import multiplicacion
 
 
-class TetsClass:
-
+class TestClass:
  
     def test_multi(self):
         assert multiplicacion(4,5) == 20
