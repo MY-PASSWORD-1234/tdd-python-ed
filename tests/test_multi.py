@@ -10,6 +10,6 @@ class MultiTetsClass:
  
     def test_multi(self):
         assert multiplicacion(4,5) == 20
-        assert multiplicacion(-1,3) == -3
+        assert multiplicacion(-1,-2) == 2
         assert multiplicacion(-7,5) == -35
-        assert multiplicacion(-7,2) == -14
+        assert multiplicacion(-7,9) == -63
